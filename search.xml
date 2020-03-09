@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Issues</title>
+      <link href="/2020/03/01/Issues/"/>
+      <url>/2020/03/01/Issues/</url>
+      
+        <content type="html"><![CDATA[<h2 id="未来的社会环境，畅想。"><a href="#未来的社会环境，畅想。" class="headerlink" title="未来的社会环境，畅想。"></a>未来的社会环境，畅想。</h2><p>经过 新型冠状病毒 – 2020。 引起我对未来的环境的想象。就有辆可移动的家，伴随着家里的机器人管家，和保卫家的机器人保安。人的习惯改为了，出门有机器人陪伴，出现危机，机器人可以抵挡。比如有了类似AR，家里专门有个环境映射的，远程操作机器人。为什么会幻想到这些了，因为只有自己强大，身边的人强大才能握住这个时代的命运，强大即自由。</p><p>这里面有几个技术需求：</p><pre><code>1. 能 24/7 通信不间断，无线的几个方式：地球的基站和卫星通信  2. 短距离（5公里）的通信支持大流量的带宽传输，支持 现实映射成虚拟  3. 机器人的智能程度达到了基本的岗位要求，比如：巡逻的保安，酒店的服务员  4. 环境科学的长足进步，如：排泄物的处理  5. 能源的高效产出和处理，假如不依靠任何外界的转化，太阳能是最好的选择之一。河南的村里，看到了很多的太阳能的热水器，基本每家都有。排泄物的和其他的化学能。如，核能可控，安全。真是超级棒的方式。</code></pre><p>做到了这些后，感觉科学的进步，文明的进步，大部分的新出现都在外太空了，而不是在地球。</p><h2 id="为什么人会孤独，为什么会想抱团，为什么要需要朋友？"><a href="#为什么人会孤独，为什么会想抱团，为什么要需要朋友？" class="headerlink" title="为什么人会孤独，为什么会想抱团，为什么要需要朋友？"></a>为什么人会孤独，为什么会想抱团，为什么要需要朋友？</h2><p>这里面问题，是一个递减的关系。</p><p>首先从时间的维度来看，</p><ol><li>人的精力是有限的，时间是一去不复返的。那么为了实现目标，围绕这个目标而进行的，都是合作者，慢慢自己的朋友圈子，接触的人和事都不一样了。所以，one thing 很重要，不必理会其他不相干的人和事，自己有自己的目标，play for win。</li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>test_my_site</title>
+      <link href="/2020/03/01/test-my-site/"/>
+      <url>/2020/03/01/test-my-site/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2020/03/01/hello-world/"/>
+      <url>/2020/03/01/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
